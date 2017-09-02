@@ -2,7 +2,7 @@
 
 RunACR SDK allows your mobile app to recognize sounds and display interactive content synchronized with what your users hear at that particular moment (like Shazam).
 
-![RunACR screen](https://runacr.com/images/2screen.png "RunACR")
+![RunACR screen](http://runacr.com/images/2screen.png "RunACR")
 
 
 
@@ -67,8 +67,8 @@ To start recognition processing, call the startRecognize method.
 
 Andrei Solovjev
 
-- https://runacr.com
-- Android version: https://runacr.com/download
+- http://runacr.com
+- Android version: http://runacr.com/download
 - https://github.com/andrei200287
 - andrei@solovjev.com
 - http://solovjev.com
