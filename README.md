@@ -2,6 +2,8 @@
 
 RunACR SDK allows your mobile app to recognize sounds and display interactive content synchronized with what your users hear at that particular moment (like Shazam).
 
+As of September 1st, 2018 SDK supports live streams. You can use SDK for recognizing TV and radio stations. You can also purchase SDK source codes for iOS, Android, and Web Server for unlimited use in your projects. Contact us at support@runacr.com to learn details.
+
 ![RunACR screen](http://runacr.com/images/2screen.png "RunACR")
 
 
