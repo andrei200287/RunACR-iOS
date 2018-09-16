@@ -4,6 +4,9 @@ RunACR SDK allows your mobile app to recognize sounds and display interactive co
 
 As of September 1st, 2018 SDK supports live streams. You can use SDK for recognizing TV and radio stations. You can also purchase SDK source codes for iOS, Android, and Web Server for unlimited use in your projects. Contact us at support@runacr.com to learn details.
 
+Test the RunACR SDK install The Young Pope — Second Screen
+https://itunes.apple.com/us/app/id1215589988?mt=8
+
 ![RunACR screen](http://runacr.com/images/2screen.png "RunACR")
 
 
